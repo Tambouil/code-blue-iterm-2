@@ -11,6 +11,7 @@ Iterm2 color scheme inspired by VS Code theme ["code blue"](https://github.com/s
 
 ## Useful Links
 
+-   Starship Prompt: [https://starship.rs/](https://starship.rs/)
 -   Iterm2 Color Schemes: [https://iterm2colorschemes.com](https://iterm2colorschemes.com)
 -   Oh My ZSH: [https://ohmyz.sh](https://ohmyz.sh) or [https://github.com/ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 -   ZSH Syntax Highlighting: [https://github.com/zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
