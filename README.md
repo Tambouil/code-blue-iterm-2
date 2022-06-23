@@ -1,4 +1,4 @@
-# Code blue Iterm2 Profile
+# Code blue Iterm2 Color scheme
 
 Iterm2 color scheme inspired by VS Code theme ["code blue"](https://github.com/sujan-s/code-blue) by Sujan Sundareswaran
 
