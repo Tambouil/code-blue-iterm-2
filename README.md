@@ -2,6 +2,11 @@
 
 Iterm2 color scheme inspired by VS Code theme ["code blue"](https://github.com/sujan-s/code-blue) by Sujan Sundareswaran
 
+![image](https://github.com/Tambouil/code-blue-iterm-2/blob/main/screenshot.png)
+
+
+
+
 ## Import & Configuration
 
 1.  Make sure you have Iterm2 installed. If you don't have it: [Download Iterm2](https://iterm2.com/downloads.html)
